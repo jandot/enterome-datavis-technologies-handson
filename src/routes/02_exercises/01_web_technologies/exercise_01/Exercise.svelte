@@ -1,7 +1,10 @@
-<div class="answer">My name is ...</div>
+<div class="answer">My name is racheal</div>
 
 <style>
   div.answer {
-    color: rgb(2, 96, 45);
+    color: red;
+  }
+  .name {
+    color:red;
   }
 </style>
